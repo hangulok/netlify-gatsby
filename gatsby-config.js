@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `그누보드 연동연습`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `그누보드 -> Gatsby 인연`,
+    description: `Gatsby가 좀 더 의미 있으려면.. 그누보드/영카트 연계.`,
+    author: `@웹학교`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

@@ -8,9 +8,9 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>안녕, 여러분</h1>
-    <p>아프고 고되어도 가야 한다면.</p>
-    <p>확장프로그램...전자책.. 오프책.</p>
+    <h1>그누보드 /영카트</h1>
+    <p>RestAPI vs GraphQL</p>
+    <p>Backend와 Frontend 분리</p>
     <p>Now go build something great.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />

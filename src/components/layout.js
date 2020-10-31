@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
         }}>
           © {new Date().getFullYear()}, Built with
           {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <a href="https://365ok.co.kr">웹학교</a>
         </footer>
       </div>
     </>
